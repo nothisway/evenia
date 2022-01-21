@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "345576777864",
+    "project_id": "sharing-session-42e45",
+    "storage_bucket": "sharing-session-42e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345576777864:android:dae30c84fc9a3f97f1573d",
+        "android_client_info": {
+          "package_name": "com.evenia.evenia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345576777864-526fl7rmahlro3qgk509ujbghatqfcct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6u_P2Eb4TNi_TqpzeMhvA4X2Z9o2UvL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345576777864-526fl7rmahlro3qgk509ujbghatqfcct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345576777864:android:a65446504b546343f1573d",
+        "android_client_info": {
+          "package_name": "com.example.sharing_session"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345576777864-526fl7rmahlro3qgk509ujbghatqfcct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6u_P2Eb4TNi_TqpzeMhvA4X2Z9o2UvL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345576777864-526fl7rmahlro3qgk509ujbghatqfcct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

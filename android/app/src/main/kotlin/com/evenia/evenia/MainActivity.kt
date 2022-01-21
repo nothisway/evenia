@@ -1,0 +1,6 @@
+package com.evenia.evenia
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
